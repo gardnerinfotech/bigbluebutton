@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "screenshare test extension",
-  "description": "test extension",
+  "name": "Quality Health Associates of North Dakota - Screen Sharing Extension",
+  "description": "Screen Sharing Extension for BigBlueButton",
   "version": "0.1.1",
   "minimum_chrome_version": "34",
   "icons": {
@@ -18,7 +18,7 @@
   ],
   "externally_connectable": {
       "matches": [
-          "*://HOSTNAME.com/*"
+          "*://bbb.qualityhealthnd.org/*"
       ]
   },
   "web_accessible_resources": [
